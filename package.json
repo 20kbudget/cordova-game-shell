@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:20kbudget/cordova-game-shell.git",
   "author": "Fabricio C Zuardi <fabricio@fabricio.org>",
-  "license": "APGL-3.0"
+  "license": "APGL-3.0",
+  "devDependencies": {
+    "cordova": "^6.5.0"
+  }
 }
