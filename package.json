@@ -1,6 +1,6 @@
 {
   "name": "cordova-game-shell",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "an empty mobile app shell to host a canvas game inside",
   "main": "index.js",
   "repository": "git@github.com:20kbudget/cordova-game-shell.git",
